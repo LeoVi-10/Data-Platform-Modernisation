@@ -25,6 +25,11 @@ ABC Corp's on-premises technology stack includes Teradata, IBM Data Manager, SQL
 - Designing the platform to accommodate Data Science model development.
 
 ## Infrastructure
+
+### Architecture Diagram
+![Architecture](https://github.com/Lovi-10/Data-Platform-Modernisation/blob/main/Architecture%20Diag.PNG?raw=true)
+
+
 ### Tools and Services
 #### Data Sources
 Twitter, FB, CSV for HR dataset
@@ -45,8 +50,7 @@ Twitter, FB, CSV for HR dataset
 #### Machine learning
 ![Sagemaker](https://raw.githubusercontent.com/weibeld/aws-icons-svg/5e0e14e5472f1eefed879d7ea7e1d79652858d14/q1-2022/Architecture-Service-Icons_01312022/Arch_Machine-Learning/16/Arch_Amazon-SageMaker_16.svg)
 
-### Architecture Diagram
-![Architecture](https://github.com/Lovi-10/Data-Platform-Modernisation/blob/main/Architecture%20Diag.PNG?raw=true)
+
 
 
 
