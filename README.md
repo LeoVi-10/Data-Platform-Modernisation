@@ -35,17 +35,17 @@ Twitter, FB, CSV for HR dataset
 ![EC2](https://raw.githubusercontent.com/weibeld/aws-icons-svg/5e0e14e5472f1eefed879d7ea7e1d79652858d14/q1-2022/Architecture-Service-Icons_01312022/Arch_Compute/16/Arch_Amazon-EC2_16.svg)
 
 #### Raw and Staging Layer
-S3
+![S3](https://raw.githubusercontent.com/weibeld/aws-icons-svg/5e0e14e5472f1eefed879d7ea7e1d79652858d14/q1-2022/Architecture-Service-Icons_01312022/Arch_Storage/16/Arch_Amazon-Simple-Storage-Service_16.svg)
 #### orchestration and ETL
-AWS Glue
+![Glue](https://raw.githubusercontent.com/weibeld/aws-icons-svg/5e0e14e5472f1eefed879d7ea7e1d79652858d14/q1-2022/Architecture-Service-Icons_01312022/Arch_Analytics/Arch_16/Arch_AWS-Glue_16.svg)
 #### Analytics
-Athena, Kinesis Data Analytics
-####dashboarding
-Opensearch
+![Athena](https://raw.githubusercontent.com/weibeld/aws-icons-svg/5e0e14e5472f1eefed879d7ea7e1d79652858d14/q1-2022/Architecture-Service-Icons_01312022/Arch_Analytics/Arch_16/Arch_Amazon-Athena_16.svg) ![Kinesis Data Analytics](https://raw.githubusercontent.com/weibeld/aws-icons-svg/5e0e14e5472f1eefed879d7ea7e1d79652858d14/q1-2022/Architecture-Service-Icons_01312022/Arch_Analytics/Arch_16/Arch_Amazon-Athena_16.svg)
+#### Dashboarding
+![Opensearch](https://raw.githubusercontent.com/weibeld/aws-icons-svg/5e0e14e5472f1eefed879d7ea7e1d79652858d14/q1-2022/Architecture-Service-Icons_01312022/Arch_Analytics/Arch_16/Arch_Amazon-OpenSearch-Service_16.svg)
 #### Machine learning
-Sagemaker
+![Sagemaker](https://raw.githubusercontent.com/weibeld/aws-icons-svg/5e0e14e5472f1eefed879d7ea7e1d79652858d14/q1-2022/Architecture-Service-Icons_01312022/Arch_Machine-Learning/16/Arch_Amazon-SageMaker_16.svg)
 
-
+### Architecture Diagram
 ![Architecture](https://github.com/Lovi-10/Data-Platform-Modernisation/blob/main/Architecture%20Diag.PNG?raw=true)
 
 
